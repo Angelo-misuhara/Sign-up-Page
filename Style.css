@@ -1,0 +1,46 @@
+
+#container {
+  border-radius: 20px;
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #ca6510;
+}
+#container button {
+  margin-top: 20px;
+}
+#container h1{
+  font-weight: bold;
+}
+@media screen and (max-width: 576px) {
+  body {
+    background-image: url(img/rei.jpg);
+  }
+  #container {
+    border-radius: 20px;
+    margin-top: 15rem;
+    margin-right: 2rem;
+  }
+
+  }
+@media screen and (max-width: 758px) {
+  body {
+    background-image: url(img/rei.jpg);
+  }
+  #container {
+    border-radius: 20px;
+    margin-top: 15rem;
+    margin-right: 2rem;
+  }
+
+}
+@media screen and (max-width: 947px) {
+  body {
+    background-image: url(img/rei.jpg);
+  }
+  #container {
+    border-radius: 20px;
+    margin-top: 15rem;
+    margin-right: 2rem;
+  }
+
+}
